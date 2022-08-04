@@ -141,7 +141,7 @@ ALTER TABLE `ebooX_ebooX`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `ebooX_ebooX_infos`
+-- Indexes for table `ebooX_ebooks_infos`
 --
 ALTER TABLE `ebooX_ebooX_infos`
   ADD PRIMARY KEY (`id`);
